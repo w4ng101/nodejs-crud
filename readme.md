@@ -37,4 +37,8 @@ Locate nodejs-crud directory
 
 Step 4 : 
 
-The run app.js type in bash shell or power shell "node app.js"
+To run this application app.js type in bash shell or power shell "node app.js"
+
+Step 5 : 
+
+Access in you browser http://localhost:4300/customers "note : 4300 port was default from my app so anytime you can change"
