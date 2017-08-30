@@ -21,24 +21,24 @@ app.js
 	
 You're gonna need to create a DB named 'nodejs' and import customer.sql
 
-How to run this application
+## How to run this application
 
-Step 1 :
+## Step 1 :
 
-Make sure all dependencies was install 
+	Make sure all dependencies was install 
 
-Step 2 :
+## ## Step 2 :
 
-Goto powershell or bash shell
+	Goto powershell or bash shell
 
-Step 3 :
+## Step 3 :
 
-Locate nodejs-crud directory 
+	Locate nodejs-crud directory 
 
-Step 4 : 
+## Step 4 : 
 
-To run this application app.js type in bash shell or power shell "node app.js"
+	To run this application app.js type in bash shell or power shell "node app.js"
 
-Step 5 : 
+## Step 5 : 
 
-Access in you browser http://localhost:4300/customers "note : 4300 port was default from my app so anytime you can change"
+	Access in you browser http://localhost:4300/customers "note : 4300 port was default from my app so anytime you can change"
