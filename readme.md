@@ -1,6 +1,9 @@
 
 This is a very basic example of CRUD in Node.js n mySQL.
+
 Reference from : http://teknosains.com/i/simple-crud-nodejs-mysql
+
+Modified from : Anuar
 
 ## Installation
 *for newbies : Clone or download zip to your machine then hit this :
