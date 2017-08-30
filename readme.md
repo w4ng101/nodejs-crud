@@ -20,3 +20,21 @@ app.js
         database:'nodejs'	
 	
 You're gonna need to create a DB named 'nodejs' and import customer.sql
+
+How to run this application
+
+Step 1 :
+
+Make sure all dependencies was install 
+
+Step 2 :
+
+Goto powershell or bash shell
+
+Step 3 :
+
+Locate nodejs-crud directory 
+
+Step 4 : 
+
+The run app.js type in bash shell or power shell "node app.js"
