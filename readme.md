@@ -27,7 +27,7 @@ You're gonna need to create a DB named 'nodejs' and import customer.sql
 
 	Make sure all dependencies was install 
 
-## ## Step 2 :
+## Step 2 :
 
 	Goto powershell or bash shell
 
