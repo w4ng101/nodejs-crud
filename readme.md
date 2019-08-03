@@ -3,7 +3,7 @@
 
 	Reference from : http://teknosains.com/i/simple-crud-nodejs-mysql
 
-	Modified from  : Anuar
+	Modified by  : Wang
 
 ## Installation
 *for newbies : Clone or download zip to your machine then hit this :
@@ -25,7 +25,7 @@ You're gonna need to create a DB named 'nodejs' and import customer.sql
 
 ## Step 1 :
 
-	Make sure all dependencies was install 
+	Make sure all dependencies was installed 
 
 ## Step 2 :
 
