@@ -32,20 +32,14 @@ if ('development' == app.get('env')) {
   app.use(express.errorHandler());
 }
 
-/*------------------------------------------
-    connection peer, register as middleware
-    type koneksi : single,pool and request 
--------------------------------------------*/
-
 app.use(
     
     connection(mysql,{
-        
         host: 'localhost',
         user: 'root',
         password : '',
         port : 3306, //port mysql
-        database:'nodejs'
+        database:'customer'
 
     },'pool') //or single
 
@@ -60,7 +54,6 @@ app.post('/customers/add', customers.save);
 app.get('/customers/delete/:id', customers.delete_customer);
 app.get('/customers/edit/:id', customers.edit);
 app.post('/customers/edit/:id',customers.save_edit);
-
 
 app.use(app.router);
 
